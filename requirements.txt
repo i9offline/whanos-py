@@ -1,0 +1,3 @@
+# Les dépendances requises pour app.py
+flask
+requests
